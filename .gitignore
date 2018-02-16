@@ -1,0 +1,7 @@
+api/.idea
+api/composer.phar
+
+api/clover.xml
+api/coveralls-upload.json
+api/phpunit.xml
+api/vendor/
